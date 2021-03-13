@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -30,7 +28,7 @@
 body{
  
 font-family: "Open Sans Condesed";
-
+padding: 20px 80px;
 }
 @keyframes App-logo-spin {
   from {
